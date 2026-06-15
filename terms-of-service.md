@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms Of Service
 
-Last updated: June 14, 2026
+Last updated: June 15, 2026
 
 Simple Row Counter is provided as a row counting tool for knitting and crochet.
 
@@ -20,9 +20,15 @@ Drive app data folder.
 
 Users can turn sync off or remove the app's Google access from their Google Account settings.
 
-## No Paid Features
+## Subscription
 
-The current Android release is free and does not use Play Billing.
+Simple Row Counter offers a free trial period, after which continued use requires an
+auto-renewing subscription, available as a weekly or yearly plan.
+
+Subscriptions are billed through your Google Play account. Unless cancelled at least 24 hours
+before the end of the current period, the subscription renews automatically at the then-current
+price. You can view, manage, or cancel your subscription, and turn off auto-renewal, in your
+Google Play account settings. Prices may vary by country.
 
 ## Contact
 
