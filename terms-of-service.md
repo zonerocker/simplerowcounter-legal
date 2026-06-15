@@ -6,7 +6,7 @@ title: Terms of Service
 
 Last updated: June 15, 2026
 
-Simple Row Counter is provided as a row counting tool for knitting and crochet.
+Simple row counter is provided as a row counting tool for knitting and crochet.
 
 ## Use Of The App
 
@@ -22,8 +22,8 @@ Users can turn sync off or remove the app's Google access from their Google Acco
 
 ## Subscription
 
-Simple Row Counter offers a free trial period, after which continued use requires an
-auto-renewing subscription, available as a weekly or yearly plan.
+Simple row counter offers a free trial period, after which continued use requires an
+auto-renewing subscription, available as a monthly or yearly plan.
 
 Subscriptions are billed through your Google Play account. Unless cancelled at least 24 hours
 before the end of the current period, the subscription renews automatically at the then-current

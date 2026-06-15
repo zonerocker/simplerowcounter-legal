@@ -6,7 +6,7 @@ title: Privacy Policy
 
 Last updated: June 14, 2026
 
-Simple Row Counter does not run its own server and does not sell or share personal data.
+Simple row counter does not run its own server and does not sell or share personal data.
 
 ## Data Stored By The App
 
@@ -31,7 +31,7 @@ tokens.
 
 ## Data Sharing
 
-Simple Row Counter does not share user data with third parties.
+Simple row counter does not share user data with third parties.
 
 The app does not use ads, analytics, or tracking software.
 
