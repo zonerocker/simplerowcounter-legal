@@ -4,10 +4,10 @@ title: Simple row counter
 
 # Simple row counter
 
-Simple row counter is a row counter for knitting and crochet.
+Simple row counter is a row counter for knitting and crochet, available on iOS and Android.
 
-The app stores projects on the device. Google Drive sync is optional and uses the user's
-own Google Drive app data folder.
+The app stores projects on the device. Cloud sync is optional: it uses the user's own iCloud
+account on iOS, or Google Drive app data folder on Android.
 
 Links:
 
