@@ -38,7 +38,7 @@ Apple's and Google's handling of that stored data is governed by their own priva
 
 ## Payments
 
-If the user subscribes, billing is handled by the App Store on iOS or Google Play on Android. The
+If the user makes a purchase, billing is handled by the App Store on Apple platforms or Google Play on Android. The
 app does not receive or store payment card details.
 
 ## Data Sharing And Tracking

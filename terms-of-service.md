@@ -4,10 +4,9 @@ title: Terms of Service
 
 # Terms Of Service
 
-Last updated: June 19, 2026
+Last updated: September 9, 2026
 
-Simple row counter is provided as a row counting tool for knitting and crochet, on iOS and
-Android.
+Simple row counter is provided as a row counting tool for knitting and crochet, on iPhone, iPad, Mac, Apple Watch and Android.
 
 ## Use Of The App
 
@@ -17,21 +16,18 @@ that it will meet every use case or remain available on every device.
 ## Cloud Sync
 
 Cloud sync is optional. When enabled, it stores the app's sync data in the user's own cloud
-account: iCloud on iOS, or the Google Drive app data folder on Android.
+account: iCloud on Apple platforms, or the Google Drive app data folder on Android.
 
 Users can turn sync off at any time. On iOS, users can delete the app's iCloud data from the iOS
 Settings; on Android, users can remove the app's Google access from their Google Account settings.
 
-## Subscription
+## Apple Purchases
 
-Simple row counter offers a free trial period, after which continued use requires an
-auto-renewing subscription, available as a monthly or yearly plan.
+Counting is free on iPhone, iPad, Mac and Apple Watch. Watch counting and its paired-phone connection do not require a purchase. A one-time, non-consumable purchase unlocks pattern PDFs and iCloud synchronization on Apple platforms. It does not renew automatically. Purchases and restoration are handled through the App Store. The applicable local price is shown before purchase.
 
-Subscriptions are billed through your App Store account on iOS or your Google Play account on
-Android. Unless cancelled at least 24 hours before the end of the current period, the subscription
-renews automatically at the then-current price. You can view, manage, or cancel your subscription,
-and turn off auto-renewal, in your App Store or Google Play account settings. Prices may vary by
-country.
+## Android Billing
+
+Android purchases are handled separately by Google Play. Subscription prices, trial eligibility and renewal terms are shown before purchase. Subscriptions renew automatically unless cancelled through Google Play. An Apple purchase does not unlock the Android app.
 
 ## Contact
 
