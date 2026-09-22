@@ -25,6 +25,13 @@ Settings; on Android, users can remove the app's Google access from their Google
 
 Counting is free on iPhone, iPad, Mac and Apple Watch. Watch counting and its paired-phone connection do not require a purchase. A one-time, non-consumable purchase unlocks pattern PDFs and iCloud synchronization on Apple platforms. It does not renew automatically. Purchases and restoration are handled through the App Store. The applicable local price is shown before purchase.
 
+Eligible users may choose to start one free seven-day trial of pattern PDF tools and iCloud
+synchronization. The seven days begin on the original App Store transaction date. The trial does
+not start automatically and does not convert into a paid purchase. When it ends, those features
+are paused until the user explicitly buys the one-time unlock. Projects, counters, imported PDFs
+and guide positions are retained, and counting remains free. Restoring the trial on another
+compatible Apple device restores only the time remaining from the original start date.
+
 ## Android Billing
 
 Android purchases are handled separately by Google Play. Subscription prices, trial eligibility and renewal terms are shown before purchase. Subscriptions renew automatically unless cancelled through Google Play. An Apple purchase does not unlock the Android app.
