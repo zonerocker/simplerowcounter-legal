@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Last updated: June 19, 2026
+Last updated: September 23, 2026
 
 Simple row counter is available on iOS and Android, and is provided by Guillaume MAIN DE BOISSIERE.
 The app has no account and no login, does not run its own server, and does not collect, sell, or
@@ -35,6 +35,22 @@ user's own cloud account:
 
 In both cases the data stays in the user's own cloud account, and the developer cannot access it.
 Apple's and Google's handling of that stored data is governed by their own privacy policies.
+
+## Use Of Google User Data
+
+Google user data is used only to provide the user-facing Google Drive sync feature.
+
+The app does not use Google user data for advertising, analytics, credit decisions, AI model
+training, or any unrelated purpose.
+
+The developer does not transfer, sell, or disclose Google user data to third parties. Google
+Drive and Google Play process data only as the services the user chooses to use for sync and
+billing.
+
+The app's use and transfer of information received from Google APIs follows the Google API
+Services User Data Policy, including the Limited Use requirements.
+
+No developer server stores Google user data or Google authorization tokens.
 
 ## Payments
 
